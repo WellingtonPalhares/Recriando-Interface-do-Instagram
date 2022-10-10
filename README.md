@@ -6,7 +6,7 @@ Projeto referente ao bootcamp oferecido pela [Digital Innovation One](https://di
 
 ## Objetivos
 
-* Recriar a página inicial do instagram.
+* Recriar a página de login do instagram.
 * Criar uma página `responsiva` para diferentes tamanhos de dispositivos.
 
 ## 💻 Tecnologias
